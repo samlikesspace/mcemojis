@@ -3,14 +3,13 @@
 
 @font-face { font-family: 'Minecraft'; src: url('MinecraftTen.tff'); }
 
-* { font-family: 'SN Pro'; }
+* { font-family: 'Minecraft'; }
 
 body {
   background: #f7f5e5;
 }
 
 footer {
-  font-family: 'Minecraft', sans-serif;
   width: 100%;
   border-top: 5px solid #0dc0e0;
   position: fixed;
