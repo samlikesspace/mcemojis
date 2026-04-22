@@ -18,9 +18,9 @@ footer {
   align-items: center;
   text-align: left;
   jutify-content: flex-end;
-  /*font-size: 25px;*/
+  font-size: 20px;
   color: #0dc0e0;
-  font-weight: 400;
+  /* font-weight: 400; */
 }
 footer span { font-family: 'Minecraft'; }
 
