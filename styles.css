@@ -14,7 +14,7 @@ body {
 }
 
 .logo { position: absolute; top: calc(100vh / 50%); height: 50px; width: 50px; }
-.logo div { height: 0px; width: 0px; }
+.logo div { height: 1px; width: 1px; }
 
 footer {
   width: 100%;
