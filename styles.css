@@ -14,13 +14,13 @@ body {
   position: absolute;
   height: 1px; 
   width: 1px;
-  position-anchor: logo;
+  position-anchor: --logo;
   position-area: center center;
   /* top: 20vh;
   right: 20vw; */
 }
 
-.logo { position: absolute; top: 20vh; right: 20vw; height: 100px; width: 100px; anchor-name: logo; }
+.logo { position: absolute; top: 20vh; right: 20vw; height: 100px; width: 100px; anchor-name: --logo; }
 
 footer {
   width: 100%;
