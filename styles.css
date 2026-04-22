@@ -22,7 +22,7 @@ footer {
   color: #0dc0e0;
   /* font-weight: 400; */
 }
-footer span { font-family: 'Minecraft'; }
+footer span { margin-left: 10px; font-family: 'Minecraft'; }
 
 footer button { justify-content: flex-end; }
 
