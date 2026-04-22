@@ -4,12 +4,14 @@ body {
   background: #f7f5e5;
 }
 
-header {
+footer {
   width: 100%;
-  border-bottom: 5px solid #0dc0e0;
+  border-top: 5px solid #0dc0e0;
+  position: fixed;
+  bottom: 0;
   padding: 25px;
   display: flex;
-  align-items: center;
+  align-items: left;
   font-size: 25px;
 }
 
