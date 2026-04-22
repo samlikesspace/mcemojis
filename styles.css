@@ -24,6 +24,6 @@ footer {
 }
 
 footer span { margin-left: 15px; font-family: 'Minecraft'; }
-footer button { position: fixed; right: 15px; top: 42px; }
+footer button { position: fixed; right: 15px; bottom: 42px; }
 
 #slogo { height: 50px; width: 50px; }
