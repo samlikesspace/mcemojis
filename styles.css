@@ -9,12 +9,12 @@ footer {
   border-top: 5px solid #0dc0e0;
   position: fixed;
   bottom: 0;
-  padding: 25px;
+  padding: 15px;
   display: flex;
   align-items: left;
   font-size: 25px;
 }
 
-.end { justify-content: flex-end; }
+footer button { justify-content: flex-end; }
 
-footer img { height: 75px; width: 75px; }
+#slogo { height: 75px; width: 75px; }
